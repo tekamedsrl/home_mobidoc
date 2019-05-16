@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921" height="560.162" viewBox="0 0 1921 560.162">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_334" data-name="Rectangle 334" width="1921" height="560.162" transform="translate(13701 -7063.162)" fill="#0dd9ed" opacity="0.04"/>
+    </clipPath>
+  </defs>
+  <g id="cloudy" transform="translate(-13701 7063.162)">
+    <rect id="Rectangle_333" data-name="Rectangle 333" width="1921" height="560.162" transform="translate(13701 -7063.162)" fill="#fff" opacity="0"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <path id="Union_9" data-name="Union 9" d="M1559,372.688s3.121-22.814,26.752-12.967c4.761-13.294,32.662-30.528,54.984,1.314,10.5-11.325,26.916-3.119,30.365,11.653Zm-553-151s3.121-22.815,26.752-12.968c4.762-13.294,32.662-30.528,54.985,1.314,10.5-11.325,26.916-3.118,30.365,11.654Zm-1006-76s3.121-22.814,26.752-12.967c4.762-13.294,32.663-30.528,54.985,1.314,10.5-11.326,26.916-3.119,30.365,11.653Zm592-96s3.121-22.814,26.752-12.967c4.762-13.294,32.662-30.528,54.985,1.314,10.5-11.325,26.916-3.118,30.365,11.653ZM1907.933,27.644s2.9-21.213,24.875-12.057c4.426-12.361,30.367-28.385,51.125,1.222,9.765-10.531,25.027-2.9,28.234,10.835Z" transform="translate(13644.834 -6937.688)" fill="#c5fbff" opacity="0.82"/>
+    </g>
+  </g>
+</svg>
